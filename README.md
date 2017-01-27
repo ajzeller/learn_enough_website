@@ -1,3 +1,3 @@
 # Sample website
 
-This is a sample website made as a part of * Enough Git to be Dangerous*.
+This is a sample website made as a part of *Learn Enough Git to be Dangerous*.
